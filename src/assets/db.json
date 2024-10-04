@@ -1,0 +1,71 @@
+{
+    "posts": [
+      {
+        "title": "Post1",
+        "body": "Some random Postrs",
+        "userId": 23,
+        "id": 1
+      },
+      {
+        "title": "Post2",
+        "body": "Another random post content",
+        "userId": 45,
+        "id": 2
+      },
+      {
+        "title": "Post3",
+        "body": "This is yet another post",
+        "userId": 12,
+        "id": 3
+      },
+      {
+        "title": "Post4",
+        "body": "Post with a short body",
+        "userId": 34,
+        "id": 4
+      },
+      {
+        "title": "Post5",
+        "body": "Something interesting for Post5",
+        "userId": 56,
+        "id": 5
+      },
+      {
+        "title": "Post6",
+        "body": "A deep thought goes into this post",
+        "userId": 11,
+        "id": 6
+      },
+      {
+        "title": "Post7",
+        "body": "Exploring a unique perspective",
+        "userId": 27,
+        "id": 7
+      },
+      {
+        "title": "Post8",
+        "body": "An insightful look into Post8",
+        "userId": 42,
+        "id": 8
+      },
+      {
+        "title": "Post9",
+        "body": "Another view on a common topic",
+        "userId": 32,
+        "id": 9
+      },
+      {
+        "title": "Post10",
+        "body": "Post10 delivers a strong message",
+        "userId": 24,
+        "id": 10
+      },
+      {
+        "title": "Post11",
+        "body": "Final post with an exciting twist",
+        "userId": 19,
+        "id": 11
+      }
+    ]
+  }
+  
